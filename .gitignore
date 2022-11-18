@@ -1,0 +1,6 @@
+data
+__pycache__
+.venv
+venv
+.ipynb_checkpoints
+docker-compose.yml
